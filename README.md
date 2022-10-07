@@ -98,9 +98,6 @@
     <a href="https://nodejs.org/en/docs/">
       <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=339933&labelColor=ffffff" alt="Node Js">
     </a>
-    <a href="https://nodejs.org/en/docs/">
-      <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=339933&labelColor=ffffff" alt="Node Js">
-    </a>
     <a href="https://maven.apache.org/guides/">
       <img src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=C71A36&labelColor=ffffff" alt="Apache Maven">
     </a>
