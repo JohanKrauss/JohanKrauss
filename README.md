@@ -44,9 +44,11 @@
     <a href="https://lenguajejs.com/javascript/dom/que-es/">
       <img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="Javascript">
     </a>
+    <!--
     <a href="https://docs.flutter.dev/">
       <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=02569B&labelColor=ffffff" alt="Flutter">
     </a>
+    -->
   </p>
   <!-- Lenguajes -->
   
@@ -80,9 +82,11 @@
     <a href="https://getbootstrap.com/">
       <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=7952B3&labelColor=ffffff" alt="Bootstrap">
     </a>
+    <!--
     <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/">
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=6DB33F&labelColor=ffffff" alt="Spring Boot">
     </a>
+    -->
   </p>
   <!-- Frameworks y Librerias -->
   
@@ -95,12 +99,14 @@
     <a href="https://docs.npmjs.com/">
       <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=ffffff" alt="Npm">
     </a>
+    <!--
     <a href="https://nodejs.org/en/docs/">
       <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=339933&labelColor=ffffff" alt="Node Js">
     </a>
     <a href="https://maven.apache.org/guides/">
       <img src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=C71A36&labelColor=ffffff" alt="Apache Maven">
     </a>
+    -->
   </p>
   <!-- Paquetes -->
   
