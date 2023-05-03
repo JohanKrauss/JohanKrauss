@@ -13,11 +13,11 @@
 
 <h4> ¡Programador en Desarrollo! 🧑🏻‍💻 </h4>
 
+- 📚 &nbsp; Programador Web en Diseño e Integración de Soluciones Informáticas S.A. de C.V.
+
 - 🇲🇽 &nbsp; Futuro Programador, Orgullosamente Mexicano.
 
-- 🎓 &nbsp; Actualmente, estudiante de la Ingeniería en Software en la Universidad Politécnica de Tecámac.
-
-- 📚 &nbsp; Además, actualmente soy becario en Diseño e Integración de Soluciones Informáticas S.A. de C.V.
+- 🎓 &nbsp; Egresado de Ingeniería en Software en la Universidad Politécnica de Tecámac.
 
 - 😄 &nbsp; Me gusta aprender cosas nuevas.
 
