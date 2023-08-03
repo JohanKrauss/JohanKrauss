@@ -1,7 +1,7 @@
 ### Hola, soy Johan! 👋
 
 <p align="center">
-  <img src="https://github.com/JohanKrauss/JohanKrauss/blob/main/images/Portada%20Git.png" />
+  <img src="https://github.com/JohanKrauss/JohanKrauss/blob/main/images/Portada%20Git%20v2.png" />
 </p>
 
 <!--
@@ -11,11 +11,13 @@
 <!-- Acerca de Mi -->
 <h2 align="center">Acerca de Mi</h2>
 
-<h4> ¡Programador en Desarrollo! 🧑🏻‍💻 </h4>
+<h4> ¡Programador Web! 🧑🏻‍💻 </h4>
 
-- 📚 &nbsp; Programador Web en Diseño e Integración de Soluciones Informáticas S.A. de C.V.
+- 💻 &nbsp; Project Manager en Diseño e Integración de Soluciones Informáticas S.A. de C.V.
 
-- 🇲🇽 &nbsp; Futuro Programador, Orgullosamente Mexicano.
+- 👨🏻‍💻 &nbsp; Programador de aplicaciones web y programador PHP. 
+
+- 🇲🇽 &nbsp; Orgullosamente Mexicano.
 
 - 🎓 &nbsp; Egresado de Ingeniería en Software en la Universidad Politécnica de Tecámac.
 
@@ -235,10 +237,10 @@
 
 <h4> Algunas de mis redes sociales son: </h4>
 <p align="center">
-  <a href="https://www.linkedin.com/in/johan-guzm%C3%A1n-p%C3%A9rez-b59170164/">
+  <a href="https://www.linkedin.com/in/johan-guzm%C3%A1n-385561284/">
     <img src="https://img.shields.io/badge/Johan%20Guzm%C3%A1n%20P%C3%A9rez-273341.svg?style=plastic&logo=LinkedIn&label=LinkedIn&logoColor=ffffff&labelColor=0A66C2" alt="Mi LinkedIn" width="27%">
   </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=johanguzmpe@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=johan.guzmanpe@gmail.com">
     <img src="https://img.shields.io/badge/Johan%20Guzm%C3%A1n%20P%C3%A9rez-273341.svg?style=plastic&logo=Gmail&label=Gmail&logoColor=ffffff&labelColor=EA4335" alt="Mi Gmail" width="27%">
   </a>
 </p>
