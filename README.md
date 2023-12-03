@@ -11,13 +11,15 @@
 <!-- Acerca de Mi -->
 <h2 align="center">Acerca de Mi</h2>
 
-<h4> ¡Programador Web! 🧑🏻‍💻 </h4>
+<h4> ¡Programador Web! 🧑🏻‍💻 </h4> 
+
+- 🇲🇽 &nbsp; Junior Developer en la Secretaría de Relaciones Exteriores de México por INFOTEC.
 
 - 💻 &nbsp; Project Manager en Diseño e Integración de Soluciones Informáticas S.A. de C.V.
 
 - 👨🏻‍💻 &nbsp; Programador de aplicaciones web y programador PHP. 
 
-- 🇲🇽 &nbsp; Orgullosamente Mexicano.
+- 🔥 &nbsp; Desarrollador web Fullstack. 
 
 - 🎓 &nbsp; Egresado de Ingeniería en Software en la Universidad Politécnica de Tecámac.
 
@@ -25,9 +27,9 @@
 
 - 🔮 &nbsp; Fiel creyente de la frase: "Si puedes imaginarlo, puedes programarlo".
 
-- 🎮 &nbsp; Además de programar, me gusta jugar videojuegos, escuchar música, conocer nuevos lugares, y pasar tiempo con amigos.
+- 🎮 &nbsp; Además de programar, me gusta jugar videojuegos, escuchar música, conocer nuevos lugares.
 
-- ✨ &nbsp; Participante del grupo de programación **Andocodeando**.
+- ✨ &nbsp; Participante del grupo de programación **Bytecoders**.
 
 - ⏳ &nbsp; Ex voluntario del programa de emprendimiento **Technovation Girls México**.
 
@@ -72,8 +74,14 @@
    <!-- Frameworks y Librerias -->
   <h4>Frameworks y Librerias</h4>
   <p align="center">
-    <a href="https://laravel.com/docs/9.x/installation">
+    <a href="https://laravel.com/">
       <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=FF2D20&labelColor=ffffff" alt="Laravel">
+    </a>
+    <a href="https://vuejs.org/">
+      <img src="https://img.shields.io/badge/Vue%203-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&labelColor=ffffff" alt="Vue 3">
+    </a>
+    <a href="https://quasar.dev/">
+      <img src="https://img.shields.io/badge/Quasar-050A14.svg?style=for-the-badge&logo=quasar&logoColor=050A14&labelColor=ffffff" alt="Quasar">
     </a>
     <a href="https://api.jquery.com/">
       <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=0769AD&labelColor=ffffff" alt="jQuery">
@@ -121,6 +129,9 @@
     <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16">
       <img src="https://img.shields.io/badge/SLQ%20Server-CC2927.svg?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=CC2927&labelColor=ffffff" alt="SQL Server">
     </a>
+    <a href="https://www.postgresql.org/">
+      <img src="https://img.shields.io/badge/Posgre%20SQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=ffffff" alt="PostgreSQL">
+    </a>
   </p>
   <!-- Bases de Datos -->
   
@@ -148,6 +159,9 @@
     <a href="https://www.manageengine.com/products/applications_manager/">
       <img src="https://img.shields.io/badge/SQL%20Server%20Management-FFB900.svg?style=for-the-badge&logo=AmazonDynamoDB&logoColor=FFB900&labelColor=ffffff" alt="SQL Server Management">
     </a>
+    <a href="https://www.manageengine.com/products/applications_manager/">
+      <img src="https://img.shields.io/badge/PgAdmin4-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=ffffff" alt="PgAdmin4">
+    </a>
     <a href="https://www.jetbrains.com/es-es/datagrip/">
       <img src="https://img.shields.io/badge/DataGrip-000000.svg?style=for-the-badge&logo=DataGrip&logoColor=000000&labelColor=ffffff" alt="DataGrip">
     </a>
@@ -168,6 +182,21 @@
     </a>
   </p>
   <!-- Software -->
+
+  <!-- Servidores -->
+  <h4>Servidores</h4>
+  <p align="center">
+    <a href="https://www.cloudways.com/es/">
+      <img src="https://img.shields.io/badge/Cloudways-2C39BD.svg?style=for-the-badge&logo=cloudways&logoColor=2C39BD&labelColor=ffffff" alt="Cloudways">
+    </a>
+    <a href="https://aws.amazon.com/es/?nc2=h_lg">
+      <img src="https://img.shields.io/badge/AWS Amazon-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=232F3E&labelColor=ffffff" alt="AWS Amazon">
+    </a>
+    <a href="https://devcenter.heroku.com/categories/reference">
+      <img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=430098&labelColor=ffffff" alt="Heroku">
+    </a>
+  </p>
+  <!-- Servidores -->
   
   <!-- Aplicaciones -->
   <h4>Aplicaciones</h4>
@@ -175,8 +204,8 @@
     <a href="https://docs.github.com/es">
       <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=ffffff" alt="GitHub">
     </a>
-    <a href="https://devcenter.heroku.com/categories/reference">
-      <img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=430098&labelColor=ffffff" alt="Heroku">
+    <a href="https://about.gitlab.com/">
+      <img src="https://img.shields.io/badge/Git%20Lab-F05032.svg?style=for-the-badge&logo=gitlab&logoColor=F05032&labelColor=ffffff" alt="Git Lab">
     </a>
     <a href="https://www.reddit.com/">
       <img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=FF4500&labelColor=ffffff" alt="Reddit">
@@ -185,10 +214,16 @@
       <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=4A154B&labelColor=ffffff" alt="Slack">
     </a>
     <a href="https://stackoverflow.com/">
-      <img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=StackOverflow&logoColor=F58025&labelColor=ffffff" alt="Slack">
+      <img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=StackOverflow&logoColor=F58025&labelColor=ffffff" alt="Stack Overflow">
     </a>
     <a href="https://www.atlassian.com/es/software/jira">
       <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=0052CC&labelColor=ffffff" alt="Jira">
+    </a>
+    <a href="https://trello.com/es">
+      <img src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=trello&logoColor=0052CC&labelColor=ffffff" alt="Trello">
+    </a>
+    <a href="https://www.figma.com/">
+      <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=ffffff" alt="Figma">
     </a>
     <a href="https://swagger.io/">
       <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=85EA2D&labelColor=ffffff" alt="Swagger">
